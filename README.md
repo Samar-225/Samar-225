@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm <a href="https://github.com/Samar-225">Samarsinh Salunkhe<a><img src="https://github.com/Samar-225/profile-readme/wave.gif" width="60px" /></h1>
     
 <p align="center">
-    <img width="200" src="https://github.com/Samar-225/profile-readme/1.jpg">
+    <img width="200" src="./1.jpg">
 </p>
 
 <div>
@@ -10,7 +10,7 @@
   💻 I’m currently working as an intern at cakeSoft Technologies<br> 
 
 📫 Reach me at <a href="mailto:samarsinh225@gmail.com">samarsinh225@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/samarsinh/">Linkedin</a><br><br><br>
+😄 Find me on <a href="https://www.linkedin.com/in/samarsinh/">Linkedin</a><br>
 🌻 View my <a href="https://twitter.com/Samarsinh_225">Twitter</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
