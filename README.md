@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Samar-225">Samarsinh Salunkhe<a><img src="https://github.com/Samar-225/profile-readme/wave.gif width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="https://github.com/Samar-225">Samarsinh Salunkhe<a><img src="https://github.com/Samar-225/profile-readme/wave.gif" width="60px" /></h1>
     
 <p align="center">
     <img width="200" src="https://github.com/Samar-225/profile-readme/1.jpg">
