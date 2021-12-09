@@ -25,7 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samar-225&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samar-225&repo=profile-readme&theme=radical)](https://github.com/Samar-225/profile-readme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Samar-225&repo=Samar-225&theme=radical)](https://github.com/Samar-225/Samar-225)
 </div>
 
 
