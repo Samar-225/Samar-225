@@ -1,6 +1,6 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Samar-225">Samarsinh Salunkhe..<a>
+# <h1 align="center">Hi, I'm <a href="https://github.com/Samar-225">Samarsinh Salunkhe..<a></h1>
 <!--     <img src="./wave.gif" width="60px" /> -->
-    </h1>
+    
     
 <!-- <p align="center">
     <img width="200" src="./1.jpg">
