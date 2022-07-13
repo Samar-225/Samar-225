@@ -9,7 +9,7 @@
 <div>
 <strong>About Me:</strong><br>
   📚 I’m a Third year Computer Science undergraduate in Pune Institute of Computer Technology<br>
-  💻 I’m currently working as an intern at cakeSoft Technologies<br> 
+  <!-- 💻 I’m currently working as an intern at cakeSoft Technologies<br> -->
 
 📫 Reach me at <a href="mailto:samarsinh225@gmail.com">samarsinh225@gmail.com</a><br>
 😄 Find me on <a href="https://www.linkedin.com/in/samarsinh/">Linkedin</a><br>
